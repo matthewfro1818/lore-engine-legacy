@@ -18,7 +18,7 @@
     {
       "name": "flixel",
       "type": "haxelib",
-      "version": "5.2.2"
+      "version": "4.11.0"
     },
     {
       "name": "flxgif",
@@ -28,7 +28,7 @@
     {
       "name": "flixel-addons",
       "type": "haxelib",
-      "version": "3.0.0"
+      "version": "2.11.0"
     },
     {
       "name": "flixel-tools",
