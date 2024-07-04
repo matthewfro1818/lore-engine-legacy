@@ -9,7 +9,7 @@ import flixel.util.typeLimit.OneOfTwo;
 import flixel.util.typeLimit.OneOfThree;
 import flixel.tweens.FlxTween;
 import flixel.system.frontEnds.SoundFrontEnd;
-import flixel.system.FlxSound;
+import flixel.sound.FlxSound;
 import funkin.backend.system.Conductor;
 import flixel.sound.FlxSoundGroup;
 import haxe.Json;
